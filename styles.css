@@ -33,7 +33,7 @@ body {
   object-fit: cover;
   background: #111827;
 }
-.content { padding: 12px 14px 16px; }
+.content { padding: 12px 14px 16px; color: white;}
 .name { margin: 0 0 4px; font-size: 30px; }
 .muted { color: var(--muted); font-size: 14px; margin: 6px 0 0; }
 
@@ -46,3 +46,4 @@ body {
 .wrapper { width: 100%; max-width: 900px; display: grid; grid-template-columns: 1fr; gap: 18px; }
 .tips { background: #0f172a; border:1px solid #1f2937; border-radius: 12px; padding: 12px 14px; }
 .tips code { color: #ffd5ef; }
+
